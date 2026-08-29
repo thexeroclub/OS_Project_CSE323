@@ -1,0 +1,29 @@
+=== SYSPULSE ULTRA V9.1 REPORT ===
+
+Generated: 2026-08-29 19:57:16.957752
+Duration : 0:02:18.653012
+Samples  : 89
+
+--- FINAL SYSTEM STATE ---
+CPU: 4.6%
+RAM: 71.9%
+Health Score: 83/100
+Processes: 579
+Zombies: 0
+Latency: None
+
+--- ALERTS ---
+No alerts.
+
+--- FAILED SERVICES ---
+- lxc.service not-found failed failed lxc.service
+
+--- AUTO DIAGNOSIS ---
+- 1 systemd service(s) have failed.
+- Kernel is tainted.
+- Logs contain 0 critical and 59 error entries.
+
+--- PACKAGE HEALTH ---
+Manager: APT
+Updates: 289
+Reboot required: False
